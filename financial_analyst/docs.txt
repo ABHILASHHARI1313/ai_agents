@@ -1,0 +1,10 @@
+User Query --> Multi-Agent System (Gemini Model)
+                 ↓          ↓
+       Finance Agent    Web Search Agent
+   (Groq Model + YFinance)   (Groq Model + DuckDuckGo)
+                 ↓          ↓
+    Financial Data         Web Search Results
+                 ↓          ↓
+         Aggregated and Processed by Gemini Model
+                       ↓
+               Final Response to User
