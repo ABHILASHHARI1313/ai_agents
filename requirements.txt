@@ -9,3 +9,8 @@ groq
 openai
 google-generativeai
 python-multipart
+sqlalchemy
+pgvector
+psycopg[binary]
+pypdf
+sentence-transformers
