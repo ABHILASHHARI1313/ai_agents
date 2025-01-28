@@ -14,3 +14,9 @@ pgvector
 psycopg[binary]
 pypdf
 sentence-transformers
+langgraph
+langsmith
+langchain
+langchain_community
+faiss-cpu
+langchain_groq
